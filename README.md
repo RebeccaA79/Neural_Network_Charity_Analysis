@@ -58,7 +58,7 @@ Attempt 2 Results: The model accuracy dropped significantly to 46.7%.
 
 Attempt 3:
 The following was changed in the model from Attempt 2:
- - Used 'AFFILIATION' and 'ORGANIZATION' counts for binning rather than 
+ - Used 'AFFILIATION' and 'ORGANIZATION' counts for binning rather than APPLICATION_TYPE and CLASSIFICATION.
 
 Attempt 3 Results: The model accuracy increased slightly to 48.8% but is still well below the initial and first attempt accuracy scores.
 
