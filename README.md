@@ -62,7 +62,7 @@ The following was changed in the model from Attempt 2:
 
 Attempt 3 Results: The model accuracy increased slightly to 48.8% but is still well below the initial and first attempt accuracy scores.
 
-![attempt 3 results] (https://github.com/RebeccaA79/Neural_Network_Charity_Analysis/blob/main/images/attempt3_model_accuracy.png)
+![attempt 3 results](https://github.com/RebeccaA79/Neural_Network_Charity_Analysis/blob/main/images/attempt3_model_accuracy.png)
 
 ## Summary
 The model ended up with the accuracy score of 48.8% after the third attempt at optimization. The highest score received was in attempt 1 with an accuracy score of 64% though I never reached the target goal of 75%. It would be beneficial to return to the parameters set for attempt 1 optimization and determine how they could be tweaked to continue an upward trend in accuracy. Additionally, it would be worth evaluating the models with other alternatives such as Random Forest Classifier to see how the model responds under a supervised machine learning approach.
